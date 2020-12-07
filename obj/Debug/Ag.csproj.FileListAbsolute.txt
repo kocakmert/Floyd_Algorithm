@@ -1,0 +1,7 @@
+C:\Users\kocak\source\repos\Ag\obj\Debug\Ag.csprojAssemblyReference.cache
+C:\Users\kocak\source\repos\Ag\obj\Debug\Ag.csproj.CoreCompileInputs.cache
+C:\Users\kocak\source\repos\Ag\bin\Debug\Ag.exe.config
+C:\Users\kocak\source\repos\Ag\bin\Debug\Ag.exe
+C:\Users\kocak\source\repos\Ag\bin\Debug\Ag.pdb
+C:\Users\kocak\source\repos\Ag\obj\Debug\Ag.exe
+C:\Users\kocak\source\repos\Ag\obj\Debug\Ag.pdb
